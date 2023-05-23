@@ -1,0 +1,11 @@
+p{
+    font-family: serif;
+    font-size: 14px;
+    color: darkslategray;
+}
+.LinkFooter:hover{
+    color: blueviolet;
+}
+.LinkFooter:visited{
+    color: red;
+}
